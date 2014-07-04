@@ -22,7 +22,7 @@ define('DB_NAME', 'UMUNC_MPC');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'BabyBibo1117');
+define('DB_PASSWORD', 'PLACE_HOLDER_PASSWORD');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
